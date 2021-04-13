@@ -1,0 +1,17 @@
+{
+  "name" : "uniondrug/hyperf-uniondrug",
+  "description" : "hyperf 药联 扩展",
+  "license" : "MIT",
+  "type" : "library",
+  "authors" : [
+    {
+      "name" : "huangyaxiong",
+      "email" : "coderhyx@163.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4" : {
+      "Uniondrug\\HyperfUniondrug\\" : "src/"
+    }
+  }
+}
